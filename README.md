@@ -1,4 +1,5 @@
-# Information Sharing Website Api
+# ArticleHub Backend
+## Information Sharing Website Api
 
 Integrated Development Environment: Eclipse  
 
